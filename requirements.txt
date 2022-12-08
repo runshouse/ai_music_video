@@ -1,0 +1,7 @@
+flask
+pandas
+gunicorn
+nltk
+urllib3
+bs4
+plotly
